@@ -1,0 +1,2 @@
+# This is a Node JS web scraping project which collects all the information of all matches conducted during the IPL 2023 Event. where the scores of each batsmen of a team is recorded over all the matches played and stored in their respective teams directory. 
+It includes runs, strike rate, balls, fours , sixex, venue , date and opponent team
